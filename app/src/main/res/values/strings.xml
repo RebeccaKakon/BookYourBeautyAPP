@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BookYourBeauty</string>
+    <string name="button">Button</string>
+    <string name="register">REGISTER</string>
+    <string name="textview">TextView</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="welcome_home">Welcome Home</string>
+    <string name="login">login</string>
+    <string name="save">Save</string>
+    <string name="password">Password</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone">Phone</string>
+    <string name="email">email</string>
+    <string name="error_invalid_password" />
+    <string name="error_field_required" />
+    <string name="error_invalid_email" />
+    <string name="editsales">EditSales</string>
+    <string name="salarycalculator">salaryCalculator</string>
+    <string name="daylyschedule">DaylySchedule</string>
+</resources>

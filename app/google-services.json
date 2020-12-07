@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "845794813658",
+    "firebase_url": "https://bookyourbeauty-3a14d.firebaseio.com",
+    "project_id": "bookyourbeauty-3a14d",
+    "storage_bucket": "bookyourbeauty-3a14d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845794813658:android:83a4ea2341cad472e927e3",
+        "android_client_info": {
+          "package_name": "com.example.bookyourbeauty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845794813658-q4hiaff93ngvrpe7f7dcm234rbacr3an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMiWJoH8icQB4YagTX_EM1vKNPnM1HpNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845794813658-q4hiaff93ngvrpe7f7dcm234rbacr3an.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
