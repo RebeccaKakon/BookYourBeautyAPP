@@ -33,7 +33,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
     @Override
     public void onClick(View v) {
         if(v==login){
-            Intent i = new Intent(this,EnterActivity.class);
+            Intent i = new Intent(this,ClientOptionActivity.class);
             startActivity(i);
         }
     }

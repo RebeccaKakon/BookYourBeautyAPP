@@ -14,6 +14,7 @@ public class ManegerOptionActivity extends AppCompatActivity implements View.OnC
     Button EditSales;
     Button salaryCalculator;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
